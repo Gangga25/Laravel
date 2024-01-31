@@ -4,7 +4,7 @@
 
 @section('content')
 
-   <div class="container my-4">
+<div class="container my-4">
     <div class="row">
         <div class="col-12">
             <a href="/kategori/add">
@@ -44,8 +44,8 @@
                         </tr>  
                     @endforeach
                 </tbody>
-              </table>
+            </table>
         </div>
     </div>
-   </div>
+</div>
 @endsection
